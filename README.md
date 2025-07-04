@@ -67,4 +67,6 @@ This EA is provided for educational and personal use only. Trading in the financ
 ## Contact
 For updates or support:  
 **Amal Jeev**  
-[Visit my MQL5 profile]([https://www.mql5.com](https://www.mql5.com/en/users/amaljeev))
+[Visit my MQL5 profile]([https://www.mql5.com](https://www.mql5.com](https://www.mql5.com/en/users/amaljeev))  
+(https://www.mql5.com)
+
